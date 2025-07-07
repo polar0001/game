@@ -23,11 +23,9 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.Compare,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.System.Acts.ResetEventVar,
-		C3.Plugins.System.Cnds.CompareVar,
-		C3.Plugins.Sprite.Acts.SetAnim,
-		C3.Plugins.System.Acts.SubVar,
 		C3.Plugins.Text.Acts.SetVisible,
 		C3.Plugins.System.Cnds.OnLayoutStart,
+		C3.Plugins.System.Cnds.CompareVar,
 		C3.Behaviors.Platform.Acts.FallThrough,
 		C3.Behaviors.Bullet.Acts.SetEnabled,
 		C3.Behaviors.solid.Acts.SetEnabled
@@ -75,7 +73,6 @@ self.C3_JsPropNameTable = [
 	{Sprite5: 0},
 	{Sprite22: 0},
 	{moeda: 0},
-	{vida: 0},
 	{Marreta: 0}
 ];
 
